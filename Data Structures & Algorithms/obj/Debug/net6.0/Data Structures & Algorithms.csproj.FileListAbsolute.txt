@@ -1,0 +1,14 @@
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\bin\Debug\net6.0\Data Structures & Algorithms.exe
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\bin\Debug\net6.0\Data Structures & Algorithms.deps.json
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\bin\Debug\net6.0\Data Structures & Algorithms.runtimeconfig.json
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\bin\Debug\net6.0\Data Structures & Algorithms.dll
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\bin\Debug\net6.0\Data Structures & Algorithms.pdb
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\obj\Debug\net6.0\Data Structures & Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\obj\Debug\net6.0\Data Structures & Algorithms.AssemblyInfoInputs.cache
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\obj\Debug\net6.0\Data Structures & Algorithms.AssemblyInfo.cs
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\obj\Debug\net6.0\Data Structures & Algorithms.csproj.CoreCompileInputs.cache
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\obj\Debug\net6.0\Data Structures & Algorithms.dll
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\obj\Debug\net6.0\refint\Data Structures & Algorithms.dll
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\obj\Debug\net6.0\Data Structures & Algorithms.pdb
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\obj\Debug\net6.0\Data Structures & Algorithms.genruntimeconfig.cache
+D:\C#\Data Structures & Algorithms\Data Structures & Algorithms\obj\Debug\net6.0\ref\Data Structures & Algorithms.dll
