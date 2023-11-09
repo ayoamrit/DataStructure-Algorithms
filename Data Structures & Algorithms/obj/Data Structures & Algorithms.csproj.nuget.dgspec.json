@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Data Structures & Algorithms\\Data Structures & Algorithms\\Data Structures & Algorithms.csproj": {}
+    "D:\\Data Structures & Algorithms\\Data Structures & Algorithms\\Data Structures & Algorithms.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Data Structures & Algorithms\\Data Structures & Algorithms\\Data Structures & Algorithms.csproj": {
+    "D:\\Data Structures & Algorithms\\Data Structures & Algorithms\\Data Structures & Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Data Structures & Algorithms\\Data Structures & Algorithms\\Data Structures & Algorithms.csproj",
+        "projectUniqueName": "D:\\Data Structures & Algorithms\\Data Structures & Algorithms\\Data Structures & Algorithms.csproj",
         "projectName": "Data Structures & Algorithms",
-        "projectPath": "D:\\C#\\Data Structures & Algorithms\\Data Structures & Algorithms\\Data Structures & Algorithms.csproj",
+        "projectPath": "D:\\Data Structures & Algorithms\\Data Structures & Algorithms\\Data Structures & Algorithms.csproj",
         "packagesPath": "C:\\Users\\AMRIT\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Data Structures & Algorithms\\Data Structures & Algorithms\\obj\\",
+        "outputPath": "D:\\Data Structures & Algorithms\\Data Structures & Algorithms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AMRIT\\AppData\\Roaming\\NuGet\\NuGet.Config",

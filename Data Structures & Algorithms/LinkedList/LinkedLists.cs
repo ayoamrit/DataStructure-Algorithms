@@ -39,6 +39,24 @@ namespace DSA.LinkedList
             Head = newNode;
         }
 
+        //Remove last element from the linked list
+        public void removeLast()
+        {
+            Node newNode = Head;
+
+            while(newNode.next.next != null)
+            {
+
+                if(newNode.next != null)
+                {
+                    newNode = newNode.next;
+                }
+            }
+            newNode.next = null;
+            Head = newNode;
+            
+        }
+
         public void insertLast(int data)
         {
             Node current = Head;
