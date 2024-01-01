@@ -22,7 +22,7 @@ namespace DSA .Lists
             numbers.Add(3);
             numbers.Add(7);
             numbers.Add(5);
-
+            
             //Key functions of list
 
             //numbers.Remove(1);  => remove element from the list
@@ -31,6 +31,7 @@ namespace DSA .Lists
             //numbers.Insert(10, 2);  => insert new element at a specific position in the list
             //numbers.Reverse(); => reverse the list
             //numbers.Clear();   => clear the list
+            //numbers.Count;     => Get the length of elements in the list
             //numbers.Contains(1);  => check whether the list contain a specific element or not
         }
     }
